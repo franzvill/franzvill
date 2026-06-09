@@ -1,6 +1,6 @@
 # Hi, I'm Francesco
 
-AI/ML Engineer based in Italy. I build tools and systems across the full AI stack — from fine-tuning and RAG to multi-agent orchestration and production deployment.
+AI/ML Engineer based in Geneva. I build tools and systems across the full AI stack — from fine-tuning and RAG to multi-agent orchestration and production deployment.
 
 ## What I Build
 
